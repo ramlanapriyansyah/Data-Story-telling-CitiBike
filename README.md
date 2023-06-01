@@ -2,9 +2,9 @@
 <img src="Citi Bike.png" alt="final presentation">
 
 # Data Used
-**Dataset** - CitiBike dataset with more than 16,000 rows
-**Data Cleaning & Analysis** - Microsoft Excel
-**Data Storytelling** - Microsoft Power Point
+- **Dataset** - CitiBike dataset with more than 16,000 rows
+- **Data Cleaning & Analysis** - Microsoft Excel
+- **Data Storytelling** - Microsoft Power Point
 
 # Key Questions
 - What are the most popular pick-up locations across the city for Citi Bike rental?
